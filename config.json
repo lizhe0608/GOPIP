@@ -15,7 +15,7 @@
     "obfs_param": "",
     "speed_limit_per_con": 0,
 
-    "out_bind": "",
+    "out_bind": "0.0.0.0",
     "dns_ipv6": false,
     "connect_verbose_info": 0,
     "connect_hex_data": 0,
